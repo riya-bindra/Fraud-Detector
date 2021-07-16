@@ -1,4 +1,9 @@
 # Fraud-Detector
-A model to classify fraudulent and fair bank transactions.
+A model to classify fraudulent and fair bank transactions using a dataset of 6362620 records.
 
-Various classification algorithms have been used for comparision along with various bagging techniques to improve the accuracy of the model.
+Algorithms used: Logistic Regression, KNN, Decision Tree
+Bagging Techniques used: Shuffling, Sample with Replacement, Sample without Replacement
+
+The best model gives an accuracy(precision | recall) of 93.5% for non-tolerable events.
+
+
